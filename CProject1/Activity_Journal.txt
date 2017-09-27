@@ -1,0 +1,122 @@
+SWEN-250 Project Activity Journal
+C Health Monitoring System Project - Part 1
+
+Name: Meghan Johnson
+
+===========  Stage 1  ==========================================
+Start 
+Estimated Time 01 00
+Plan:
+(Order of implementation, testing approach, estimation technique)
+My plan is to implement the code the way that I think it will work at first
+I will try to test this code, and then go back and fix any issues and 
+fix any gramatical things in the print statement if needed.  I will test by using
+sample input from various paragraphs in the project write up.  
+I chose this amount of time because parsing a single line of code and printing it
+isn't the hardest function to write.
+
+Complete
+Actual Time	06 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+I realized that parsing through this kind of input was more difficult than I thought.
+I also, after having a lot of problems with getchar(), decided to use scanf().
+This was also more difficult to use as I had never used it before, lots of google and help
+from my friends were needed to try to figure out how to use scanf properly.
+
+Time ratio: 6/1= 6
+
+The time ratio is so high because I tried with getchar() and then again tried again with scanf
+I basically started my code from scratch after writing it for two hours.
+===========  Stage 2  ==========================================
+Start
+Estimated Time	02 30
+Plan:
+(Order of implementation, testing approach, estimation technique)
+My plan of implementation is to try to add the new features that are needed.
+Testing will be using the examples that were given to us and seeing if my code matches the output
+I just put down a random time because I don't know how long it will actually take me.
+Complete
+Actual Time	03 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+I learned multiple ways to copy over character arrays
+A major problem I had was however copying over an array, my indexes were off and it was causing many problems.
+
+Time ratio: 3/2.5
+
+It is a smaller number than last time.
+
+===========  Stage 3  ==========================================
+Start
+Estimated Time	02 00
+Plan:
+(Order of implementation, testing approach, estimation technique)
+My plan is to add one thing at a time and compile it
+One of my things that I do is I end up coding so much that if theres and error it takes forever to figure out what actually made it break
+For testing I will use the example input and compare it with the sample output
+I chose this amount of time because I tend to be getting faster and understanding the concepts more, and I feel like I know where this stage is going
+
+Complete
+Actual Time	01 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+The problems that I had were mostly indexing problems in the print statement, in my switch statement.
+Another problem that I encountered was my conditions for the while loops to print out each value and time.
+
+Time Ratio: 1.5/2
+
+I was surprised that I finished the section before my estimated time.  However, this section was one of the easier ones.
+
+===========  Stage 4  ==========================================
+Start
+Estimated Time	01 00
+Plan:
+(Order of implementation, testing approach, estimation technique)
+My plan is to work on the code bit by bit and see if what i did works
+If not change the approach, if it does, keep going forward
+I will make very large test files to check to see my overflow works properly
+Complete
+Actual Time	01 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+There were really no problems with this section
+It was adding a few if statements while it's collecting data.
+
+Time ration 1/1
+===========  Stage 5  ==========================================
+Start
+Estimated Time	00 30
+Plan:
+(Order of implementation, testing approach, estimation technique)
+I think that my code already works with this stage because I set it to already end at EOF
+testing will be done with the first example of input in the project write up
+I chose this amount of time because it should be simple
+Complete
+Actual Time	02 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+My code did properly work with what this stage wanted us to be able to complete
+However, I had to do A LOT of bug fixing which is why it took me a super long time.
+
+===========  PROJECT PART 1 SUMMARY REFLECTION  =======================
+(Replace this text with a couple of paragraphs summarizing your
+experience with this project. What is too easy or too hard? What
+was the most challenging technical problem you faced? How
+did your estimated and actual time compare? Did your estimates
+improve as you advanced to later stages? Why or why not?)
+
+This project was definitely more difficult than I thought it was going to be.
+I had to google a lot of things and try to learn new concepts that we hadn't necessarily gone over
+in class, for example scanf.  And with using scanf some of my indexes were not how they were supposed to be which is why
+some of my code looks extremely problematic.
+The most challenging problem I had to face was working with time and copying it from one array to another.
+It seemed easy at first, but then the indexes messed up with the scanf and I had to figure what was happening.
+I estimated my time a bit off at first, I overestimated my skills a bit too much with stage one.  Eventually, I began
+to be able to estimate my time a bit more accurate to my actual time.  As the stages went on my ratio got more to an even 1
+and eventually went faster than my estimated time.  The last stage was only the second time that my estimated time was WAY under my actual time
+This was due to bug fixes and the fact that my code decided to die and not work all of a sudden.
+
+This project was a good experience to make a large program and see the power that C actually has (with these topics) 
+================================================================

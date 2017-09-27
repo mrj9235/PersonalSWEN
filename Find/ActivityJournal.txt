@@ -1,0 +1,22 @@
+SWEN-250 Activity Reflection
+
+Name:Meghan Johnson
+
+================================================================
+Start
+Estimated Time	02 30
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan is to implement the methods in the order they are given to us.  This is because they are dependent on the other functions.
+My plan for testing is to run test_find until all tests pass and use the debugger if necessary
+Complete
+Actual Time	01 45
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+I learned how to use pointers a bit more properly during this activity.  I still messed up some, but was able to fix it.
+About 3 of the times that I tried to compile, the core dumped and I had to go back to the planning board
+Other Compiling errors were stupid mistakes like forgetting a parenthesis or forgetting a curly brace.
+I only had one runtime error and that was when I forgot to increment a value in a while loop so the loop went on infinitely. 
+
+
+================================================================

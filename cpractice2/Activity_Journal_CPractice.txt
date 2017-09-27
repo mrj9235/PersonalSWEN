@@ -1,0 +1,57 @@
+SWEN-250 Activity Journal
+C pointers light Practice Practicum
+
+Name: Meghan Johnson
+
+================================================================
+Overall comments on:
+
+Amount of description in the cpractice2.c file:
+	There was a good amount of information in the descriptions in the file.
+	They were very clear to follow and they were very helpful.
+	Each description basically matched the description on the website except the first one.
+Amount of description in the webpage:
+	There was a very helpful amount of descriptions on the webpage.
+	The review at the bottom of the page was also very helpful and was look at a lot.
+
+General comments:
+	A general comment I have is about the tests.  The testing messages were kind of helpful in some functions.
+	However, it would be more helpful if it stated what the output should have been and what the output our
+	function made was.  That way we can compare both.
+
+================================================================
+get_pointer_at_position
+Actual Time	00 05
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+No problems encountered, pretty standard funciton to get an index.
+================================================================
+convert_and_sum
+Actual Time	00 40
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+I tried out a strategy that was way more difficult than what the actual solution was.
+I tried setting a variable called y and setting that to the pointer value time m + b.
+I didn't realize that you can just manipulate the value of the pointer.
+================================================================
+same_array
+Actual Time	00 10
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+This took a bit longer because again, I tried something a lot more difficult than what the
+solution was.
+I tried comparing each value instead of just comparing the memory locations.
+================================================================
+bool_flip_flop
+Actual Time	03
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+This one was really easy, just had to set a global variable and see if it was odd or even.
+================================================================
+fix_bad_code
+Actual Time	10
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+this one took a little bit longer because I had to get the index of the last letter properly
+It was pretty easy thought to fix the code that was given to us
+================================================================

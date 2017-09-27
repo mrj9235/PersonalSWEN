@@ -1,0 +1,20 @@
+Name:Meghan Johnson
+
+================================================================
+Start
+Estimated Time	03 30
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan is to implement the three functions one at a time and then compile them to see if there are any errors.
+Testing approach is to use the provided tests to see if it all works.
+I will look online to answer any questions that I might have on syntax or built in c functions.
+Complete
+Actual Time	03 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+First Attempt at Compiling:
+	It didn't compile.  It is confused about the reference of test in the main method, which isn't
+	really my fault.  I even tried to compile it under the name 'test' and got the same compile error.
+	It was my fault, I didn't compile it correctly 
+I still don't consider every condition and I need to start doing it more often.
+================================================================

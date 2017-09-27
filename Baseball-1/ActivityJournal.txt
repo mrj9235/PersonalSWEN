@@ -1,0 +1,74 @@
+SWEN-250 Activity Reflection
+Database -- SQL Practice - Baseball Players
+
+Name: Meghan Johnson
+
+================================================================
+Query 1: Find all the information on all the catchers (position 2) in the database
+Estimated Time	00 15
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan is to write it as best as possible and then run it until it works
+Complete
+Actual Time	00 15
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+It took a bit of time to actually figure out the syntax of the select statement.
+But with enough looking at the powerpoint, I figured it out.
+
+================================================================
+Query 2: Find the name and age of all pitchers (position 1) on the Rays
+Estimated Time	00 15
+Plan:
+(Order of implementation, testing approach, etc.)
+I plan on looking at the slides seeing how to write the command and then seeing if the output matched
+Complete
+Actual Time	00 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+This one ended up taking a bit longer because i forgot a single comma so it wasn't
+printing at all
+
+================================================================
+Query 3: Find the name, number, and team of all outfielders (positions 7 through 9) who are 25 years old or younger
+Estimated Time	00 15
+Plan:
+(Order of implementation, testing approach, etc.)
+I plan on implementing then checking to see if the output matched
+Complete
+Actual Time	00 15
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+The one thing that is still messing me up is the syntax of what section should have a comma and which one should
+be seperated with and.  eventually I got it but that was the main issue I had here.
+
+================================================================
+Query 4: Find the name and number of all infielders (positions 3 through 6) on the Red Sox
+Estimated Time	00 10
+Plan:
+(Order of implementation, testing approach, etc.)
+I plan on doing the same as before, writing it and seeing if it matches the output
+Complete
+Actual Time	00 05
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+I finally got the hang of the syntax, this one I was able to write and run without a problem.
+
+================================================================
+Query 5: Find the name, number, and team of all pitchers who are over 30 years old
+Estimated Time	00 05 
+Plan:
+(Order of implementation, testing approach, etc.)
+Same as before
+
+Complete
+Actual Time	00 05
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+Again I was able to write this pretty easily, was able to finish it in a decent amount of time.
+
+================================================================

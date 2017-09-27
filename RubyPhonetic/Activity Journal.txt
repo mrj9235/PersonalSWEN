@@ -1,0 +1,28 @@
+
+SWEN-250 Activity Reflection
+Ruby - Phonetic
+ 
+Name: Meghan Johnson
+ 
+================================================================
+Start
+Estimated Time 00 30
+Plan:
+(Order of implementation, testing approach, estimation technique)
+I will implement the methods in the order that they are given in the text file.  
+Testing will be done using the given tests and then implementing my own tests that are
+required.
+
+
+Complete
+Actual Time    00 38
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+At first i forgot to .upcase! the strings that would be passed into the functions.
+This would cause my code to error out because it was trying to access members of a nil array.
+Overall the methods were pretty simple to write and pretty repetitive.
+ 
+================================================================
+ 
+ 

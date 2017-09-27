@@ -1,0 +1,102 @@
+SWEN-250 Activity Reflection
+
+Name: Meghan Johnson
+
+================================================================
+Start
+
+length():
+Estimated Time	01 00
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan is to write out the method the way I think it should be implemented.
+After this one I will implement and test the other functions in the order that they gave us
+I will test this function with the one test that they gave us.
+Complete
+Actual Time	01 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+I learned that for this function you don't have to use malloc, I don't know why I tried to use it
+It caused many problems and cause my code to infinitely loop.
+I also forgot the initial case of if the head equaled zero
+
+================================================================
+push():
+
+Estimated Time  01 00
+Plan:
+(Order of implementation, testing approach, etc.)
+My test is to push one element, and then check the length
+And then push another and check the length again.
+Complete
+Actual Time     00 40
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+A problem that I encountered was in my length method, I had the wrong condition for my while loop
+This was causing my tests to fail and I was getting very confused, I thought the error was in push so
+I spent a lot of time error checking push when I should have been looking at the other functions.
+================================================================
+pop():
+Estimated Time  00 30
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan is to keep the list from the other tests and pop until the list is empty.
+After each pop I'll check the length and data that was returned from the action.
+Complete
+Actual Time     00 20
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+There were no obstacles encountered in the implementation process
+
+================================================================
+appendNode():
+Estimated Time  00 40
+Plan:
+(Order of implementation, testing approach, etc.)
+Testing will include pushing one or more elements, then appending a node
+After this I will pop until I get to the appended node and make sure that
+the pop equals the data that was appended into the node
+
+Complete
+Actual Time     00 15
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+There were no issues or problems that were encountered other than stupid syntax errors.
+================================================================
+copyList():
+Estimated Time  01 30
+Plan:
+(Order of implementation, testing approach, etc.)
+I plan on making one list, copying it, and then comparing the two lists with a helper method
+
+Complete
+Actual Time     01 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+One problem that occured was that i was setting curr to it's next too early causing it to seg fault because
+NULL doesn't have a next.
+
+Another problem that occured was that my compareList function was off and causing me to not pass my tests.
+
+================================================================
+freeList():
+
+Estimated Time  00 30
+Plan:
+(Order of implementation, testing approach, etc.)
+
+I am required to write a test for an empty list and one with at least two elemetns in it.
+Complete
+Actual Time     00 20
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+This method was very easy, However since I implemented and tested copyList() before it there was some memory leak
+but this was from the copied list.  I didn't know how to free that list, but when I commented it out there were no
+memory leaks. 
+================================================================
+

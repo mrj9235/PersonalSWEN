@@ -1,0 +1,27 @@
+SWEN-250 Activity Journal
+C (no pointers) Practice Practicum
+
+Name: Meghan Johnson
+
+================================================================
+skip_spaces
+Actual Time	15
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+Nothing really learned, previous knowledge used
+================================================================
+find_next_word
+Actual Time	30
+Lessons learned, problems encountered, obstacles overcome, etc.
+forgot a condition so it took me a while to figure out where to place it and how to fit it in 
+================================================================
+change_to_upper
+Actual Time	10
+Lessons learned, problems encountered, obstacles overcome, etc.
+accidentally did || instead of && caused me to fail tests, easy fix
+================================================================
+capitialize_all_words
+Actual Time	10
+Lessons learned, problems encountered, obstacles overcome, etc.
+nothing new learned, basically just used all of the previous functions to run this function
+================================================================

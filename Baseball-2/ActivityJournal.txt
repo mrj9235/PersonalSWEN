@@ -1,0 +1,37 @@
+SWEN-250 Activity Reflection
+Database -- SQL Practice - Relational Joins
+
+Name: Meghan Johnson
+
+================================================================
+Queries 1 through 10:
+Estimated Time	02 00
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan is to implement them one by one.  After each one is written the way I think it'd be
+correct I am going to compare it to the Output given by just looking at the given output in
+the write up.  If it works I will move on, if it doesn't, I will keep trying until it does.
+Complete
+Actual Time	01 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+The only problems that I encountered where when the query required us to search for titles
+that started with a word.  We'd never done that before so it took me a while to find it on google and use it properly.  The query that took me the longest was number 8.
+
+================================================================
+Queries 11 through 15 (extra credit if done):
+Estimated Time	01 00
+Plan:
+(Order of implementation, testing approach, etc.)
+I plan on implementing as many as possible before the due date
+Testing will be comparing them to the output provided
+Complete
+Actual Time	00 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+I ended up only being able to implement two but they were both fairly easy to 
+figure out and worked the first time.
+
+================================================================

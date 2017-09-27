@@ -1,0 +1,57 @@
+SWEN-250 Activity Reflection
+Ruby - GeoCalc
+
+Name: Meghan Johnson
+
+================================================================
+Start activity 1 -- complete and test the Line class in line.rb
+Estimated Time	00 30
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan is to implement the length method and then write a few tests to see if it works,
+then I plan on runnin git using the command line to see if it works every way.
+Complete
+Actual Time	00 40
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+The method itself was very easy to implement, the thing that was most difficult was writing the 
+test class from scratch, I had to look at all of the older projects to know what to do for the test class.
+The test cases also took a while because I didn't know exactly what to test.
+
+================================================================
+
+Start activity 2 -- complete and test the Circle class in circle.rb
+Estimated Time	00 30
+Plan:
+(Order of implementation, testing approach, etc.)
+I plan on implementing them in the order that they are given to us, that way i can use previous methods in
+the one i am currently working on.
+Testing will be testing each method and making sure that they work.
+Complete
+Actual Time	00 15
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+The circle class was pretty easy to implement if you knew all of the proper formulas.
+
+The test cases again is what took the majority of my time.
+================================================================
+
+Start activity 3 -- complete and test the Rectangle class in rectangle.rb
+Estimated Time	00 30
+Plan:
+(Order of implementation, testing approach, etc.)
+I again plan on implementing them to in the order that they are commented.  I also plan on looking at the previous
+classes to make sure that I am fully aware on how the methods should look.
+Tetsing will be making a test for each method and seeing if they work.
+Complete
+Actual Time	00 40
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+I had a bit of trouble trying to call the height and width methods for the perimeter and area methods.
+I still actually don't know if I did it properly but I got it to pass all of my tests.
+
+**UPDATE** I got the rectangle class to work properly, added 5 minutes for a total of 45 minutes
+================================================================

@@ -1,0 +1,86 @@
+/*
+* Health Monitoring System
+*/
+
+#include <stdio.h>
+#include <ctype.h>
+
+#define MAXPATIENTS 5
+#define MAXREADINGS 10
+#define MAXTYPES 5
+#define MAXTIME 8
+
+/* One health type reading: timestamp + actual value */
+typedef struct{
+	char timestamp[MAXTIME+1];
+	int value;
+}Element;
+
+/* Circular buffer of health type readings */
+typedef struct{
+	int start;	/* index of oldest reading */
+	int end;	/* index of most current reading */
+	Element reading[MAXREADINGS];
+}CircularBuffer;
+
+/* Patient's health chart: ID + multiple health type readings */
+typedef struct{
+	int id;
+	CircularBuffer buffer[MAXTYPES];
+}Chart;
+
+
+/*
+* Health records for all patients defined here.
+* The variable record is visible to all functions
+* in this file, i.e. it is global.
+*/
+Chart record[MAXPATIENTS];
+
+void main(){
+int i, j;
+
+/* initialize health data records for each patient */
+
+for( i=0; i < MAXPATIENTS; i++ ){
+    record[i].id = i + 1;
+    for( j=0; j < MAXTYPES; j++ ){
+        record[i].buffer[j].start = 0;
+	record[i].buffer[j].end = 0;
+        }
+    }
+printf("Welcome to the Health Monitoring System\n\n");
+
+/*
+*  YOUR CODE GOES HERE:
+*  (1) Read a csv line of health data from stdin 
+*  (2) Parse csv line into appropriate fields
+*  (3) Store health data in patient record or print if requested
+*  (4) Continue (1)-(3) until EOF
+*/
+
+	int id;
+	char time[MAXTIME + 1];
+	int type;
+	int value;
+	int index = 0;
+	
+	scanf("%s[^,], %s[^,], %s[^,], %s", id, time, type, value);
+	
+	float valueF = atof(value);
+	int idI = atoi(id);
+	int typeI = atoi(type);
+	record[id].id = idI;
+	time[MAXTIME + 1] = '\0';
+	for( index; index < MAXTIME + 1; index ++){
+		record[id].buffer[type].reading[0].timestamp[index] = time[index];
+	}
+	record[id].buffer[type].reading[0].timestamp[index] = '\0';
+	if(type == 1){
+		valueF = valueF / 10.0;
+	}
+	record[id].buffer[type].reading[0].value = valueF;
+	printf("%s: %i for Patient ID = %i is %.1f", record[idI].buffer[typeI].reading[0].timestamp, typeI, record[idI].id, record[idI].buffer[typeI].reading[0].value);
+printf("\nEnd of Input\n");
+
+}

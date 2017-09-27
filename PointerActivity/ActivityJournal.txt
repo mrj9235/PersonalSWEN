@@ -1,0 +1,22 @@
+SWEN-250 Activity Reflection
+
+Name: Meghan Johnson
+
+================================================================
+Start
+Estimated Time 03 30
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan is to do what I normally do, go through the instructions and implement the functions one at a time.
+Then while coding ask the prof, the TA's or the internet about any functionality/syntax help/errors that I might have.
+My approach for testing is using the given test files.
+
+Complete
+Actual Time	01 10
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+Pointers are so far the hardest thing that we've learned in this course.  I had to constantly google and ask my friend if I was right because I was not confident in my abilities.
+I have to keep better track of my variables and make sure that I don't accidentally turn them into double pointers like I did a few times.
+For about 5 times in a row, I had the same compile errors.  Basically telling em I was doing pointers wrong.
+
+================================================================

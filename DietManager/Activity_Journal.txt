@@ -1,0 +1,92 @@
+SWEN-250 Activity Journal
+Ruby – Diet Manager
+
+Name: Meghan Johnson
+
+================================================================
+Level 1 – Food DB Load – Start
+Estimated Time	00 30
+Plan for this level:
+ I plan on implementing the main constuctors for FoodDB and BasicFood.
+I then plan on implementing the main function that will create the database from the textfile
+and then take in commands.
+
+Create unit tests
+Level 1 – Food DB Load – Complete
+Actual Time	00 50
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+problems that I encountered were my print statements printing out a list of nils
+This happened because I forgot quotes around what i put after puts.
+I also forgot to but the variable a few times and that caused some errors.
+
+Time Ratio 50/30
+================================================================
+Level 2 – Print & Find – Start
+Estimated Time	00 30
+Plan for this level:
+
+I plan on implementing print and then find.  Testing will be attempting to test the output
+that the functions produced.
+Level 2  – Print & Find – Complete
+Actual Time	00 15
+Lessons learned, problems encountered, obstacles overcome, etc.
+This level was pretty easy, I had no problems whatsoever when working on these commands
+
+Time Ratio: 15/30
+================================================================
+Level 3 – Database Update – Start
+Estimated Time	01 00
+Plan for this level:
+I plan on implementing them in the order that the write up says.
+I also plan on writing a test for each method
+
+Level 3 – Database Update  – Complete
+Actual Time  03 30	
+Lessons learned, problems encountered, obstacles overcome, etc.
+This level gave me a lot of troubles.  I had many problems writing into the file.
+Everything kept overwriting everything.
+
+Time ratio 03 30/ 01 00
+================================================================
+Level 4 – Logging Foods – Start
+Estimated Time	01 00
+Plan for this level:
+I plan on implementing both of the log classes and then implementing the two three other methods in order
+
+Level 4 – Logging Foods – Complete
+Actual Time	01 30
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+I had a lot of problems working with the dates and I still don't exactly know how to properly sort the show all dates
+My brain also stopped working and I completely lost track of what I was supposed to do and stared at an
+empty nano file for about 10 of these 90 minutes
+
+Time Ration 90/60
+================================================================
+Level 5 – Show & Delete – Start
+Estimated Time	01 00
+Plan for this level:
+
+I plan on implementing them again in the order that they are written in the write up
+
+Level 5 – Show & Delete – Complete
+Actual Time	00 45
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+There were not really any problems that I faced other than figuring out that I had to write a to_s for my dates.
+I also made a stupid mistake and split up the wrong string and that messed up my delete function for a while
+
+Time ratio: 45/60
+================================================================
+Overall Summary
+Estimated Total Time	04 00
+Actual Total Time	06 50
+Project reflection:
+
+This project all-in-all was easier than healthnet part 2 in my opinion.
+The Classes were easier to keep track of and overall the code was cleaner.
+The only thing that i had a true problem with is the amount of time I spent googling things 
+because I had basically no idea what to do for a certain class(ie date).
+This became very tedious but I was able to work it out.
+Overall I had a lot of fun with this project,

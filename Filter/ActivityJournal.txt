@@ -1,0 +1,19 @@
+SWEN-250 Activity Reflection
+
+Name:Meghan Johnson
+
+================================================================
+Start
+Estimated Time 02 30
+Plan:
+(Order of implementation, testing approach, etc.)
+Order of implementation will be the order that the functions are given to us
+Testing will be with the tests they give us
+Complete
+Actual Time	?? ??
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+I wasn't able to finish this assignment
+I was too focused on other assignments and I didn't put enough time here.
+
+================================================================

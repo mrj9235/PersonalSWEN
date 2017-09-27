@@ -1,0 +1,7 @@
+Orange (medium),b,67
+Bread slice,b,80
+Peanut butter,b,175
+Jelly,b,155
+Bread,b,123
+PBJ,r,Bread,Peanut butter,Jelly,Bread
+Apple,b,345

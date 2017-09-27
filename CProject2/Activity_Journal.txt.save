@@ -1,0 +1,127 @@
+4010-250 Project Journal
+C Health Monitoring System Project - Part 2
+
+Name:Meghan Johnson
+
+===========  Stage 1  ==========================================
+Start
+Estimated Time	02 00
+Plan:
+(Order of implementation, testing approach, estimation technique)
+I will implement this first by implementing addPatient and then go onto the main function in health.c
+Testing will be done by trying to check in the patient and the printing out the patient's ID and making sure they match.
+Complete
+Actual Time	01 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+The longest part of this part was figuring out what the structs actually stood for and how to properly used them.
+After figuring out how to use the structs figuring out the rest was pretty simple
+===========  Stage 2  ==========================================
+Start
+Estimated Time 01 30
+Plan:
+(Order of implementation, testing approach, estimation technique)
+ I plan on implementing most of the functions in health_util
+and then implementing what needs to happen in the main function in part two.
+My approach for testing will be similar to part 1.  I'll enter code that is given in the examples for
+part 2 and then add print statements
+Complete
+Actual Time	01 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+Updating the main function wasnt bad, it was just calling one function.
+The things that took the most time were implementing 3 of the util functions.
+I then wrote A while loop to bprint out each buffer and their nexts each time one was called
+This was just to check to make sure everything was linking correctly
+
+===========  Stage 3  ==========================================
+Start
+Estimated Time	00 10
+Plan:
+(Order of implementation, testing approach, estimation technique)
+I believe that from the beginning I had properly implemented my method to keep going with multiple lines of input
+and being able to store more than one patient at a time.
+I will test by writing a simple while loop that prints out the patients.
+Complete
+Actual Time	00 05
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+My code worked perfectly with what had to be done in this stage.  The five minutes included writing a print
+statement and making sure everything linked together properly.
+
+===========  Stage 4  ==========================================
+Start
+Estimated Time	01 30
+Plan:
+(Order of implementation, testing approach, estimation technique)
+I think that this will be longer than others because now I have to add in the health data
+This means I have to implement "addHealthReading" as well as implementing cases 1-6 in my
+switch statement in health.c
+Testing will be done with the sample input and seeing if it works with the output properly
+Complete
+Actual Time	02 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+I messed up the way I passed in the time to addHealthReading.  This cause me to worrk and go
+through everything to see what I had messed up.  A pro of doing this was I found an error in one
+of my other functions.  Another place I messed up was I used the wrong index variables in my
+print statements and this also caused me to panic
+
+===========  Stage 5  ==========================================
+Start
+Estimated Time	00 05
+Plan:
+(Order of implementation, testing approach, estimation technique)
+If I am correct, I believe that I properly implemented my code in level four to also work with
+What stage five is asking us to do.
+For testing I will run it with the sample input they give us and I will check to see if the
+output looks correct
+Complete
+Actual Time	00 03
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+I ran the test and the output looked exactly like it should have.
+===========  Stage 6  ==========================================
+Start
+Estimated Time	00 05
+Plan:
+(Order of implementation, testing approach, estimation technique)
+As I stated in level five I believe that I overthought stage four and my implementation then 
+Should properly work for stage six as well.  The only problem that I have right now is that
+when I enter multiple lines of input at once, if the input with type seven isn't last or by itself, it gets really weird
+and doesn't look like the proper output
+Complete
+Actual Time	00 03
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+I ran the test and the print statement saying that there were patients being added didn't
+looked messed up like they had before.  It passed the test
+===========  Stage 7  ==========================================
+Start
+Estimated Time	00 30
+Plan:
+(Order of implementation, testing approach, estimation technique)
+
+I plan on implementing two functions, one that deletes just the health data and then
+another one that deletes all the health data and then frees the patient chart.
+
+My testing approach will be to run through the input that was given to us at the beginning of the write up
+
+Complete
+Actual Time	01 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+The main problem that I encountered was trying to access the next of a NULL in my remove patient
+I changed conditions many times and each time got the same error.  I had to add anotherc
+
+===========  PROJECT SUMMARY REFLECTION  =======================
+(Replace this text with a couple of paragraphs summarizing your
+experience with this project. What is too easy or too hard? What
+was the most challenging technical problem you faced? How
+did your estimated and actual time compare? Did your estimates
+improve as you advanced to later stages? Why or why not?)
+================================================================

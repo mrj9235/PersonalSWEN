@@ -1,0 +1,30 @@
+SWEN-250 Activity Reflection
+
+Name: Meghan Johnson <mrj9235@rit.edu>
+
+================================================================
+Start
+Estimated Time	03 30
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan to write the code is to first map it out on a sheet of paper.
+After mapping it out, I'll start to write the code and change it as I need to.
+For testing, I plan on using multiple text files, not just DarkAndStormyNight.txt to see if it works on multiple files
+I compiled a few more times with errors and I would go back and try to fix just one at a time.
+For the majority of the time after I got those errors out of the way, Everytime I compiled there were no errors, just runtime mistakes (i.e getting wrong numbers) so I would have to go back and fix the if statements.
+
+
+
+
+Complete
+Actual Time	04 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+It took a lot longer than I realized.  The problem that I mostly encountered
+ was that I didn't think of a certain condition that cause the program to run
+ smoothly.  I compiled around 5-6 times before I had all of the correct conditions. 
+
+Somethings that I overcame were learning how to properly write in the C Syntax.
+It's still new and each time I write in it I can see myself improving.
+
+================================================================

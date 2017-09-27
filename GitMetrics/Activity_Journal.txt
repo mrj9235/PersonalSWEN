@@ -1,0 +1,31 @@
+SWEN-250 Activity Reflection
+Ruby - Git Repository Metrics
+
+Name: Meghan Johnson
+
+================================================================
+Start
+Estimated Time	01 30
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan of implementation will be to first learn how to do what the project wants us to code.
+Once I refresh my memory on standard input and parsing, I will go through and make it so that
+my could should maybe work, make it definitely work, and then clean it up.
+
+My testing approach is going to be using the original test cases that the file already gives us 
+and then making more test cases.
+
+Complete
+Actual Time	02 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+Probelms that I encountered were properly adding things into the array in num_developers, and then 
+properly handing how to return the time.
+
+I learned that instead of using array.insert(), you can just do array += value
+
+writing test cases were pretty easy 
+
+================================================================
+

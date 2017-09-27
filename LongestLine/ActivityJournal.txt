@@ -1,0 +1,40 @@
+SWEN-250 Activity Reflection
+
+Name: Meghan Johnson <mrj9235>
+
+================================================================
+Part 1
+Estimated Time	01 30
+Plan:
+(Order of implementation, testing approach, etc.)
+	I plan on looking through the code and understanding how the rest of the program works
+	instead of just jumping in and trying to code it blind.  After this, I will write the program to the
+	best of my abilities before trying to compile and fixing any errors.
+	Testing will be running the program with the tests that are provided.
+Complete
+Actual Time	03 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+Each time I compile there is just a warning saying that result is not used in a test funtion. 
+I definitely over estimate my ability to code in c as my estimated times are no where near the actual time
+At first, I didn't realize that you had to insert the characters into the array, I thought it was already filled
+with the line, so I was iterating through nothing.
+  
+
+================================================================
+Part 2
+Estimated Time	02 00
+Plan:
+(Order of implementation, testing approach, etc.)
+I will implement the copy function to the best of my ability and then I will change it bit by bit until it works
+the way that it is supposed to.
+Testing will be putting it through my own tests while it is compiled as longest, and then use the provided tests
+Complete
+Actual Time	01 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+I learned that c is a bit more picky than I though.
+Everytime I compiled there were no errors, however there were runtime errors that took a while to fix.
+The problems that I encountered were remember cases for if statements
+
+================================================================

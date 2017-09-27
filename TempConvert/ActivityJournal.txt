@@ -1,0 +1,39 @@
+SWEN-250 Activity Reflection
+
+Name: Meghan Johnson <mrj9235@rit.edu>
+
+================================================================
+Start Part 1
+Estimated Time: 01hr 30min
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan is to write out what code I think will work as this is my fist time
+Coding in C, and then I will try to compile and run the program.
+There isn't exactly much testing since the function doesn't
+take in any variables.
+
+Complete
+Actual Time	02 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+First attempt at compiling: There was one error and it was that I had an unidentified variable.
+	This happened because I forgot that I had changed the variables and forgot to change that one accordingly.
+It took about 8 more times to compile and to get it to work how it was supposed to
+For a large majority of the time, I would get compile errors
+When it would compile (before it worked properly) I would get a runtime error of
+"....(Core Dumped)"
+================================================================
+Start Part 2
+Estimated Time	01 30
+Plan:
+(Order of implementation, testing approach, etc.)
+My plan is to copy the file over from chart1.c and google ways to solve chart 2 properly.
+The way it will be tested will be keep running the program until the formatting looks the same.
+Complete
+Actual Time	00 30
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+Everytime I compiled the file, there were no errors.  I had to keep compiling because I kept having
+to change the justification of the numbers.
+
+================================================================
