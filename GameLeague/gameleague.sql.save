@@ -44,6 +44,7 @@ INSERT INTO HighScores VALUES ("pluto",311,23456);
 -- All player handles
 SELECT Players.handle from Players where Players.handle != null;
 -- All game names
+SELECT Games.name from Games where Games.name != null;
 
 -- All guilds and their game, sorted by game name
 
